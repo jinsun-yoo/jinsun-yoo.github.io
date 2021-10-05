@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in [Georgia Institute of Technology](https://github.com/academicpages/academicpages.github.io) [School of Computer Science](https://scs.gatech.edu), advised by Drs. [Kishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). My current focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. I achieved my bachelor's degree in Business Administration in [Seoul National University](https://en.snu.ac.kr/), Korea and came to Atlanta in August 2021. Prior to joining the Academia, I worked at [MOLOCO](https://moloco.com), as a Software Engineer for 1.5 years.
+I am a first year PhD student in [Georgia Institute of Technology](https://github.com/academicpages/academicpages.github.io) [School of Computer Science](https://scs.gatech.edu), advised by Drs. [Kishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). My current focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. I achieved my bachelor's degree in Business Administration in [Seoul National University](https://en.snu.ac.kr/), Korea and came to Atlanta in August 2021. Prior to joining the Academia, I worked at [MOLOCO](https://moloco.com) as a Software Engineer for 1.5 years.
 
 <!--
 A data-driven personal website
