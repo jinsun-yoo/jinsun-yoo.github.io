@@ -34,10 +34,10 @@ Research
 *Graduate Research Assistant, Advisor: Umakishore Ramachandran* (Aug 2021 ~ Current)
 
 ### Seoul National University, [Distributed Computing Systems Lab](http://dcslab.snu.ac.kr/)
-*Research Assistant, Advisor: Heon Young Yeom* (Aug 2021 ~ Current)
+*Research Assistant, Advisor: Heon Young Yeom* (Sep 2020 ~ Dec 2020)
 
 ### Seoul National University, [Computer Architecture and Embedded Systems Lab](http://cares.snu.ac.kr/)
-*Research Assistant, Advisor: Jihong Kim* (Aug 2021 ~ Current)
+*Research Assistant, Advisor: Jihong Kim* (Jul 2019 ~ Oct 2019)
 
 
 <br/>
