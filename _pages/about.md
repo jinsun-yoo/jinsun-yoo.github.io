@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Jinsun Yoo"
+excerpt: "Jinsun Yoo"
 author_profile: true
 redirect_from: 
   - /about/
