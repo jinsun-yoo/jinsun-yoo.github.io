@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinsun Yoo"
+  name             : #"Jinsun Yoo"
   avatar           : "profile.jpg"
-  bio              : "CS PhD Student in GeorgiaTech - Focused on Edge Computing (Distributed Systems & Architecture)"
+  bio              : #"CS PhD Student in GeorgiaTech - Focused on Edge Computing (Distributed Systems & Architecture)"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

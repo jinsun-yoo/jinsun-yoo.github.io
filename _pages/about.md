@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in [Georgia Institute of Technology](https://www.gatech.edu) [School of Computer Science](https://scs.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I achieved my bachelor's degree in Business Administration in [Seoul National University](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I worked at [MOLOCO](https://moloco.com) as a Software Engineer for 1.5 years.
+I am a first year PhD student in [Georgia Institute of Technology](https://www.gatech.edu) [School of Computer Science](https://scs.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Business Administration in [Seoul National University](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I worked at [MOLOCO](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years.
 
-My current focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. Edge computing opens up the door to a new paradigm of applications. I am excited by the potential impact this will have in our everyday lives, for example in implementing the smart city.
+My research focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. Currently I am looking into systems that can consider the constraints of Edge environments when managing resources.  I believe Edge computing will open up the door to a new paradigm, just as cloud computing did. The direct impact this has on our lives, through venues such as smart cities, excites me most about this field.
 
 Here is a copy of my [CV](https://jinsun-yoo.github.io/files/resume.pdf). You can reach me at firstname at gatech dot edu
 
