@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in [Georgia Institute of Technology](https://www.gatech.edu) [School of Computer Science](https://scs.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Business Administration in [Seoul National University](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I worked at [Moloco](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years.
+I am a first year PhD student in [Georgia Institute of Technology](https://www.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Business Administration in [Seoul National University](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I worked at [Moloco](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years.
 
 My research focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. Currently I am looking into systems that can consider the constraints of Edge environments when managing resources.  I believe Edge computing will open up the door to a new paradigm, just as cloud computing did. The direct impact this has on our lives, through venues such as smart cities, excites me most about this field.
+
+As of Summer 2022, I am working as an intern at Google's Global Network team.
 
 Here is a copy of my [CV](https://jinsun-yoo.github.io/files/resume.pdf). You can reach me at firstname at gatech dot edu
 
@@ -45,9 +47,12 @@ Research
 <br/>
 
 
-Work 
+Work Experience
 ====
-**MOLOCO Inc**\
+**Google**\
+*Software Engineer Intern* (May 2022 - Aug 2022)\
+
+**Moloco**\
 *Software Engineer* (Jan 2021 - Jul 2021)\
 *Software Engineer Intern* (Jan 2020 - Aug 2020)
 
