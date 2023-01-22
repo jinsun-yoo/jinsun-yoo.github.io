@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in [Georgia Institute of Technology](https://www.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Business and Computer Science in [Seoul National University(SNU)](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I started my career at [Moloco](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years. During my PhD career I have interned in companies such as Google.
+I am a second year PhD student in [Georgia Institute of Technology](https://www.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Business and Computer Science in [Seoul National University(SNU)](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I started my career at [Moloco](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years. During my PhD career I have interned in companies such as Google.
 
 My research focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. Currently I am looking into systems that can consider the constraints of Edge environments when managing resources. I believe Edge computing will open up the door to a new paradigm, just as cloud computing did. The direct impact this has on our lives, through venues such as smart cities, excites me most about this field.
 
@@ -16,6 +16,13 @@ Here is a copy of my [CV](https://jinsun-yoo.github.io/files/resume.pdf). You ca
 
 At my free time I play the double bass as a proud member of the Emory University Symphony Orchestra([EUSO](https://emorysymphony.org/)).
 
+<br/>  
+
+Publication 
+====
+Difei Cao, **Jinsun Yoo** (co-first author), Zhuangdi Xu, Enrique Saurez, Harshit Gupta, Tushar Krishna, Umakishore Ramachandran, \
+*MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing*, ACM Middleware, 2022 (Middleware '22) [link](https://dl.acm.org/doi/abs/10.1145/3528535.3565254) \
+**Best Paper Award!!**
 
 <br/>  
 
@@ -33,7 +40,7 @@ Double Major / Summa Cum Laude
 Research 
 ====
 ### Georgia Institute of Technology, Embedded & Pervasive Lab
-*Graduate Research Assistant, Advisor: Umakishore Ramachandran* (Aug 2021 ~ Current)
+*Graduate Research Assistant, Advisor: Umakishore Ramachandran, Tushar Krishna* (Aug 2021 ~ Current)
 
 ### Seoul National University, [Distributed Computing Systems Lab](http://dcslab.snu.ac.kr/)
 *Research Assistant, Advisor: Heon Young Yeom* (Sep 2020 ~ Dec 2020)
@@ -60,6 +67,7 @@ Work Experience
 
 Teaching
 ===
+**Advanced Operating System**, Fall 2022 (Georgia Institute of Technology) \
 **Logic Design**, Spring 2019 (Seoul National University)
 
 <br/>
