@@ -45,7 +45,7 @@ Double Major / Summa Cum Laude
 
 Research 
 ====
-### Georgia Institute of Technology, Embedded & Pervasive Lab
+### Georgia Institute of Technology, Embedded Pervasive Lab, [Synergy Lab](https://synergy.ece.gatech.edu/)
 *Graduate Research Assistant, Advisor: Umakishore Ramachandran, Tushar Krishna* (Aug 2021 ~ Current)
 
 ### Seoul National University, [Distributed Computing Systems Lab](http://dcslab.snu.ac.kr/)
