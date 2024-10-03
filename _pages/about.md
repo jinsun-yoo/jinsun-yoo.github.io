@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in [Georgia Institute of Technology](https://www.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Business and Computer Science in [Seoul National University(SNU)](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I started my career at [Moloco](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years. During my PhD career I have interned in companies such as Google.
+I am a fourth year PhD student in [Georgia Institute of Technology](https://www.gatech.edu), advised by Drs. [Umakishore Ramachandran](https://www.cc.gatech.edu/~rama/) and [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/). I received my bachelor's degree in Computer Science and Business in [Seoul National University(SNU)](https://en.snu.ac.kr/), Korea. Prior to coming to Atlanta, I started my career at [Moloco](https://www.molocoads.com/en/) as a Software Engineer for 1.5 years. During my PhD career I have interned in companies such as Nvidia and Google.
 
-My research focus is on Edge computing, with a broad interest in distributed systems and hardware architectures. Currently I am looking into systems that can consider the constraints of Edge environments when managing resources. I believe Edge computing will open up the door to a new paradigm, just as cloud computing did. The direct impact this has on our lives, through venues such as smart cities, excites me most about this field.
+My research focus is on system support for complex and novel applications, spanning across distributed learning and edge computing. For distributed learning, I am looking into better communication optimization strategies, focused on frameworks and the network layer. For edge computing, I am looking into enabling coordinated applicaitions that involve clients that move across city regions. The key is in preemptive data movement and resource allocation across different edge sites, pertaining to client movement. 
 
 Here is a copy of my [CV](https://jinsun-yoo.github.io/files/resume.pdf). You can reach me at firstname at gatech dot edu
 
@@ -20,6 +20,13 @@ At my free time I play the double bass as a proud member of the Emory University
 
 Publication 
 ====
+**Jinsun Yoo**, William Won, Meghan Cowan, Nan(Ted) Jiang, Benjamin Klenk, Srinivas Sridharan, Tushar Krishna, \
+*Towards a Standardized Representation for Deep Learning Collective Algorithms*, IEEE Hot Interconnects, 2024 (HotI '24) [link](https://arxiv.org/abs/2408.11008) \
+
+Anirudh Sarma, **Jinsun Yoo**, Jithin Sojan, Umakishore Ramachandran, Myungjin Lee, \
+*FEO: Efficient Resource Allocation for FaaS at the Edge*, ACM International Conference on Distributed and Event-based Systems, 2024 (DEBS '24) \
+[link](https://dl.acm.org/doi/10.1145/3629104.3666033)
+
 Difei Cao, **Jinsun Yoo** (co-first author), Zhuangdi Xu, Enrique Saurez, Harshit Gupta, Tushar Krishna, Umakishore Ramachandran, \
 *MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing*, ACM Middleware, 2022 (Middleware '22) [link](https://dl.acm.org/doi/abs/10.1145/3528535.3565254) \
 **Best Paper Award!!**
@@ -32,7 +39,7 @@ Education
 *Ph.D Student, School of Computer Science* (Expected graduation Spring 2026)
 
 ### Seoul National University
-*Bachelor in Business Administration & Computer Science and Engineering* (2014 - 2021) \
+*Bachelor in Computer Science and Engineering & Business Administration* (2014 - 2021) \
 Double Major / Summa Cum Laude
 
 <br/>
@@ -54,7 +61,11 @@ Research
 
 Work Experience
 ====
+**NVIDIA**\
+*Software Engineer Intern* (Sep 2024 - Dec 2024)
+
 **Google**\
+*Software Engineer Intern* (May 2023 - Aug 2023)
 *Software Engineer Intern* (May 2022 - Aug 2022)
 
 **Moloco**\
@@ -63,12 +74,6 @@ Work Experience
 
 
 <br/>
-
-
-Teaching
-===
-**Advanced Operating System**, Fall 2022 (Georgia Institute of Technology) \
-**Logic Design**, Spring 2019 (Seoul National University)
 
 <br/>
 
