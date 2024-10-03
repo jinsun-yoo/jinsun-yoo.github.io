@@ -21,11 +21,10 @@ At my free time I play the double bass as a proud member of the Emory University
 Publication 
 ====
 **Jinsun Yoo**, William Won, Meghan Cowan, Nan(Ted) Jiang, Benjamin Klenk, Srinivas Sridharan, Tushar Krishna, \
-*Towards a Standardized Representation for Deep Learning Collective Algorithms*, IEEE Hot Interconnects, 2024 (HotI '24) [link](https://arxiv.org/abs/2408.11008) \
+*Towards a Standardized Representation for Deep Learning Collective Algorithms*, IEEE Hot Interconnects, 2024 (HotI '24) [link](https://arxiv.org/abs/2408.11008)
 
 Anirudh Sarma, **Jinsun Yoo**, Jithin Sojan, Umakishore Ramachandran, Myungjin Lee, \
-*FEO: Efficient Resource Allocation for FaaS at the Edge*, ACM International Conference on Distributed and Event-based Systems, 2024 (DEBS '24) \
-[link](https://dl.acm.org/doi/10.1145/3629104.3666033)
+*FEO: Efficient Resource Allocation for FaaS at the Edge*, ACM International Conference on Distributed and Event-based Systems, 2024 (DEBS '24) [link](https://dl.acm.org/doi/10.1145/3629104.3666033)
 
 Difei Cao, **Jinsun Yoo** (co-first author), Zhuangdi Xu, Enrique Saurez, Harshit Gupta, Tushar Krishna, Umakishore Ramachandran, \
 *MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing*, ACM Middleware, 2022 (Middleware '22) [link](https://dl.acm.org/doi/abs/10.1145/3528535.3565254) \
