@@ -4,68 +4,76 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Jinsun Yoo</title>
+  <style>
+    :root {
+      --paragraph-line-length: 120ch;
+    }
+
+    p {
+      max-inline-size: var(--paragraph-line-length);
+      overflow-wrap: break-word;
+    }
+  </style>
 </head>
 <body>
   <header>
+    <img src="images/profile.jpg" alt="Profile photo">
     <h1>Jinsun Yoo</h1>
-    <p>CS PhD Student at Georgia Tech</p>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="publications.html">Publications</a>
-      <a href="teaching.html">Teaching</a>
-      <a href="talks.html">Talks</a>
-      <a href="files/resume.pdf">Resume</a>
-    </nav>
   </header>
 
   <main>
     <section>
-      <img src="images/profile.jpg" alt="Profile photo">
       <div>
-        <h2>About</h2>
         <p>
-          Welcome to my personal website. I am a CS PhD Student at Georgia Tech, focused on edge computing, distributed systems, and system architecture.
+          I am a 5th year Ph.D. student in Georgia Tech, advised by Profs. Kishore Ramachandran and Tushar Krishna.
+          Prior to coming to Atlanta, I received my Bachelor's degree in Seoul National University (SNU), Korea. 
         </p>
         <p>
-          This site contains information about my research, publications, teaching experience, and talks.
+          My dissertation research aims to make it easier to predict the performance of distributed ML workloads. The work looks at several layers of the configuration space - workload, collective, network fabric- and combines simulation with ground truth, in stack execution. My CV is available <a href="files/cv.pdf" target="_blank">here</a>.
         </p>
-        <h3>Contact</h3>
         <p>
-          Email: <a href="mailto:jyoo332@gatech.edu">jyoo332@gatech.edu</a>
+          At my free time I play the double bass as a proud member of the <a href="https://emorysymphony.org/" target="_blank">Emory University Symphony Orchestra (EUSO)</a>.
+        </p>
+        <p>
+          I can be reached at firstname at gatech dot edu.
         </p>
       </div>
     </section>
 
     <section>
-      <h2>Education</h2>
-      <ul>
-        <li><strong>Ph.D in Computer Science</strong>, Georgia Tech (In Progress)</li>
-        <li><strong>M.S. in Computer Science</strong>, Georgia Tech</li>
-        <li><strong>B.S. in Computer Science</strong>, University</li>
-      </ul>
-    </section>
+      <hr>
+      <h2>Select Publications</h2>
+      <p>
+        <b>Jinsun Yoo</b>, Meghan Cowan, Zheng Du, Changhai Man, Srinivas Sridharan, Tushar Krishna,<br>
+        <i>Flint: Compiler Enabled Cluster-Free Design Space Exploration for Distributed ML</i>, arxiv preprint <a href="https://arxiv.org/abs/2604.17550" target="_blank">link</a>
+      </p>
 
-    <section>
-      <h2>Research Interests</h2>
-      <ul>
-        <li>Edge Computing</li>
-        <li>Distributed Systems</li>
-        <li>System Architecture</li>
-      </ul>
-    </section>
+      <p>
+        Srinivas Sridharan, ..., <b>Jinsun Yoo</b>, ..., Tushar Krishna,</br>
+        <i>MLCommons Chakra: Advancing Performance Benchmarking and Co-Design Using Standardized Execution Traces</i>, MLSys 2026 (to appear)
+      </p>
 
-    <section>
-      <h2>Recent Updates</h2>
-      <ul>
-        <li><a href="publications.html">View my publications</a></li>
-        <li><a href="teaching.html">Teaching experience</a></li>
-        <li><a href="talks.html">Recent talks and presentations</a></li>
-      </ul>
-    </section>
-  </main>
+      <p>
+        <b>Jinsun Yoo</b>, William Won, Meghan Cowan, Nan(Ted) Jiang, Benjamin Klenk, Srinivas Sridharan, Tushar Krishna,</br>
+        <i>Towards a Standardized Representation for Deep Learning Collective Algorithms</i>, IEEE Micro, vol 45, no. 2, 2024 OR IEEE Hot Interconnects, 2024 (HotI ‘24) <a href="https://ieeexplore.ieee.org/abstract/document/10910230/" target="_blank">link</a>
+      </p>
 
-  <footer>
-    <p>&copy; 2024 Jinsun Yoo. Last updated on April 22, 2024.</p>
-  </footer>
+      <p>
+        Difei Cao, <b>Jinsun Yoo</b> (co-first author), Zhuangdi Xu, Enrique Saurez, Harshit Gupta, Tushar Krishna, Umakishore Ramachandran,</br>
+        <i>MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing</i>, ACM Middleware, 2022 (Middleware ‘22) <a href="https://dl.acm.org/doi/10.1145/3528535.3565254" target="_blank">link</a></br>
+        <b>Best Paper Award!!</b>
+      </p>
+
+      <h2>Other Publications</h2>
+      <p>
+        Jaewon Lee, Hyunggyu Park, Seungwoo Cha, <b>Jinsun Yoo</b>, Srujan Penta, Tushar Krishna, Muhannad Bakir,</br>
+        <i>Demonstration of a 200×200 mm2 Glass Substrate for Large Area Packages</i>, ECTC, 2026 (to appear)
+      </p> 
+
+      <p>
+        Anirudh Sarma, <b>Jinsun Yoo</b>, Jithin Sojan, Umakishore Ramachandran, Myungjin Lee,</br>
+        <i>FEO: Efficient Resource Allocation for FaaS at the Edge</i>, ACM International Conference on Distributed and Event-based Systems, 2024 (DEBS ‘24) <a href="https://dl.acm.org/doi/10.1145/3629104.3666033" target="_blank">link</a>
+      </p>
+    </section>
 </body>
 </html>
